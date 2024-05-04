@@ -1,5 +1,5 @@
 - 👋 Hola, soy @amejosecar
-- 👀 Estoy interesado en futbol, karate, aikido, crossfit, airsoft
+- 👀 Estoy interesado en futbol, karate, aikido, crossfit, airsoft, microsft, python, Data Science
 - 🌱 Actualmente estoy aprendiendo python y github
 - 💞️ Busco colaborar en soluciones en TIC
 - 📫 Cómo contactarme amejosecar@gmail.com
